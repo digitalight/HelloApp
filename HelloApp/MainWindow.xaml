@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HelloApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="248.772" Width="298.67">
+        Title="HelloApp" Height="248.772" Width="298.67">
     <Grid Margin="0,0,3.667,-0.333">
         <TextBlock HorizontalAlignment="Left" Margin="58,10,0,0" TextWrapping="Wrap" Text="Select what text you want to see" VerticalAlignment="Top"/>
         <RadioButton x:Name="RadioButton1" Content="Hello" HorizontalAlignment="Left" Margin="31,59,0,0" VerticalAlignment="Top"/>
